@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import "./admin.css";
+import "./Admin.css";
 import { deleteApi, editApi, getDetails, postData } from "./Services/allApi";
 import Table from "react-bootstrap/Table";
 import { useNavigate } from "react-router-dom";
