@@ -1,0 +1,1 @@
+export const baseUrl = 'https://find-the-metro-server.onrender.com'
